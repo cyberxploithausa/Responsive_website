@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dc63752a-d04f-4ef2-905e-10ee4407e5bb/deploy-status)](https://app.netlify.com/sites/cyberxploit/deploys)
+
 # Responsive Website
 
 ## This is a very simple responsive website.
@@ -10,4 +12,6 @@ Of your choice.
 #### Credit goes to me (Cyberxploit Hausa)
 
 When ever you clone this repo remember to give it a star ⭐.
-**Created with ❤️ and ⚡Powered By CyberXploit Hausa**
+
+> Website [Live Preview](https://cyberxploit.netlify.app/)
+> **Created with ❤️ and ⚡Powered By CyberXploit Hausa**
