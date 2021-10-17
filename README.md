@@ -11,7 +11,8 @@ Of your choice.
 
 #### Credit goes to me (Cyberxploit Hausa)
 
-When ever you clone this repo remember to give it a star ⭐.
+When ever you clone this repo, remember to give it a star ⭐.
 
 > Website [Live Preview](https://cyberxploit.netlify.app/)
+
 > **Created with ❤️ and ⚡Powered By CyberXploit Hausa**
