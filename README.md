@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/dc63752a-d04f-4ef2-905e-10ee4407e5bb/deploy-status)](https://app.netlify.com/sites/cyberxploit/deploys)
 
-# Static HTML and CSS Website
+# Responsive HTML and CSS Website
 
 Welcome to the repository for my static HTML and CSS website. This repository contains the source code and assets for my personal website, which showcases my projects, portfolio, and other information. Feel free to explore the website and the code behind it.
 
@@ -19,16 +19,13 @@ This website is designed to serve as a personal portfolio and showcase my projec
 
 ## Website Preview
 
-You can visit the live website here: [Your Website URL](https://example.com)
-
-![Website Preview](screenshot.png)
+You can visit the live website here: [Preview](https://cyberxploit.netlify.app)
 
 ## Technologies Used
 
 - HTML5: Used for structuring the web pages.
 - CSS3: Used for styling and layout.
-- JavaScript (optional): Used for adding interactivity (if applicable).
-- Any other libraries or frameworks you used.
+
 
 ## Getting Started
 
@@ -42,7 +39,6 @@ To run this website locally or make modifications, follow these steps:
 3. Open the index.html file in your preferred web browser to view the website.
 4. If you want to make changes, edit the HTML and CSS files as needed.
 5. To apply your changes, refresh the webpage in your browser
-
 
 
 
