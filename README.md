@@ -38,6 +38,13 @@ To run this website locally or make modifications, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/your-website.git
+2. cd Responsive_website
+3. Open the index.html file in your preferred web browser to view the website.
+4. If you want to make changes, edit the HTML and CSS files as needed.
+5. To apply your changes, refresh the webpage in your browser
+
+
+
 
 ## This is a very simple responsive website.
 
