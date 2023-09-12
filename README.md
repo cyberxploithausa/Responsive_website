@@ -40,14 +40,21 @@ To run this website locally or make modifications, follow these steps:
 4. If you want to make changes, edit the HTML and CSS files as needed.
 5. To apply your changes, refresh the webpage in your browser
 
+Contributing
+Contributions to improve the website or fix any issues are welcome! If you'd like to contribute, please follow these guidelines:
 
+1. Fork this repository.
+2. Create a new branch for your changes: git checkout -b feature/your-feature-name
+3. Make your changes (e.g., update content, add features).
+4. Test your changes to ensure they work as expected.
+5. Commit your changes: git commit -m "Add your message here"
+6. Push your changes to your forked repository: git push origin feature/your-feature-name
+7. Create a pull request (PR) describing your changes.
+   
+License
+This project is licensed under the MIT License. Feel free to use the code and customize it for your own website.
 
-## This is a very simple responsive website.
-
-### Created using HTML and CSS.
-
-You can modify the project by changing the images of your choice and text
-Of your choice.
+Happy coding!
 
 #### Credit goes to me (Cyberxploit Hausa)
 
