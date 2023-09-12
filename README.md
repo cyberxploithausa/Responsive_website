@@ -40,9 +40,9 @@ To run this website locally or make modifications, follow these steps:
 4. If you want to make changes, edit the HTML and CSS files as needed.
 5. To apply your changes, refresh the webpage in your browser
 
-Contributing
-Contributions to improve the website or fix any issues are welcome! If you'd like to contribute, please follow these guidelines:
+## Contributing
 
+Contributions to improve the website or fix any issues are welcome! If you'd like to contribute, please follow these guidelines:
 1. Fork this repository.
 2. Create a new branch for your changes: git checkout -b feature/your-feature-name
 3. Make your changes (e.g., update content, add features).
@@ -51,7 +51,7 @@ Contributions to improve the website or fix any issues are welcome! If you'd lik
 6. Push your changes to your forked repository: git push origin feature/your-feature-name
 7. Create a pull request (PR) describing your changes.
    
-License
+## License
 This project is licensed under the MIT License. Feel free to use the code and customize it for your own website.
 
 Happy coding!
